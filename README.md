@@ -1,4 +1,5 @@
 # Logo-MetaMask
 Logo interactivo de MetaMask para uso publico
-![imagenDemo](imagen/imagenDemo.png)
+
+![Vista previa del video](imagen/videoDemo.gif)
 
